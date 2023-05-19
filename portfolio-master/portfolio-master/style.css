@@ -1,0 +1,35 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.header
+{
+    background-color:teal;
+    display: flex;
+    justify-content:space-between
+}
+
+.item
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly
+    
+}
+
+
+
+p,h2
+{
+text-align: center;
+}
+
+.footer
+{
+    display:flex;
+    justify-content:flex-end
+}
